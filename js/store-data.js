@@ -5294,3 +5294,986 @@ let stores = [{
     }],
     "slug": "hollywood-vine-6290-west-hollywood-blvd-hollywood-ca-900285309-us"
 }]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// OSLO STORES BEGIN:
+
+
+
+
+
+
+
+
+// { paging: { total: 14, offset: 0, limit: 50, returned: 14 }, stores: [, …], … }
+// coordinates: { lat: 59.9138688, lng: 10.7522454 }
+// lat: 59.9138688
+// lng: 10.7522454
+// includesRecommendedLocations: false
+// paging: { total: 14, offset: 0, limit: 50, returned: 14 }
+// limit: 50
+// offset: 0
+// returned: 14
+// total: 14
+// stores: [, …]
+// 0: { recommendation: { }, storeNumber: "20264-200472", id: "1005205", name: "Oslo City", phoneNumber: null, … }
+// address: { streetAddressLine1: "Stenersgata 1", streetAddressLine2: "Oslo Sentrum", streetAddressLine3: null, … }
+// city: "Oslo"
+// countryCode: "NO"
+// countrySubdivisionCode: "03"
+// postalCode: "0550"
+// streetAddressLine1: "Stenersgata 1"
+// streetAddressLine2: "Oslo Sentrum"
+// streetAddressLine3: null
+// addressLines: ["Stenersgata 1", "Oslo Sentrum", "Oslo, 03 0550"]
+// 0: "Stenersgata 1"
+// 1: "Oslo Sentrum"
+// 2: "Oslo, 03 0550"
+// brandName: "Starbucks"
+// coordinates: { latitude: 59.912602, longitude: 10.752611 }
+// latitude: 59.912602
+// longitude: 10.752611
+// features: [{ code: "WF", name: "Wireless Hotspot" }, { code: "RW", name: "My Starbucks Rewards" }]
+// 0: { code: "WF", name: "Wireless Hotspot" }
+// code: "WF"
+// name: "Wireless Hotspot"
+// 1: { code: "RW", name: "My Starbucks Rewards" }
+// code: "RW"
+// name: "My Starbucks Rewards"
+// id: "1005205"
+// mop: { ready: false, wait: null }
+// ready: false
+// wait: null
+// name: "Oslo City"
+// open: false
+// openStatusText: "Closed"
+// ownershipTypeCode: "LS"
+// phoneNumber: null
+// recommendation: { }
+// regulations: []
+// schedule: [{ dayName: "Today", hours: "7:30 AM to 10:00 PM", open: true, holiday: "" }, …]
+// 0: { dayName: "Today", hours: "7:30 AM to 10:00 PM", open: true, holiday: "" }
+// dayName: "Today"
+// holiday: ""
+// hours: "7:30 AM to 10:00 PM"
+// open: true
+// 1: { dayName: "Tomorrow", hours: "7:30 AM to 10:00 PM", open: true, holiday: "" }
+// dayName: "Tomorrow"
+// holiday: ""
+// hours: "7:30 AM to 10:00 PM"
+// open: true
+// 2: { dayName: "Friday", hours: "7:30 AM to 10:00 PM", open: true, holiday: "" }
+// dayName: "Friday"
+// holiday: ""
+// hours: "7:30 AM to 10:00 PM"
+// open: true
+// 3: { dayName: "Saturday", hours: "8:30 AM to 8:00 PM", open: true, holiday: "" }
+// dayName: "Saturday"
+// holiday: ""
+// hours: "8:30 AM to 8:00 PM"
+// open: true
+// 4: { dayName: "Sunday", hours: "Closed", open: false, holiday: "" }
+// dayName: "Sunday"
+// holiday: ""
+// hours: "Closed"
+// open: false
+// 5: { dayName: "Monday", hours: "7:30 AM to 10:00 PM", open: true, holiday: "" }
+// dayName: "Monday"
+// holiday: ""
+// hours: "7:30 AM to 10:00 PM"
+// open: true
+// 6: { dayName: "Tuesday", hours: "7:30 AM to 10:00 PM", open: true, holiday: "" }
+// dayName: "Tuesday"
+// holiday: ""
+// hours: "7:30 AM to 10:00 PM"
+// open: true
+// slug: "oslo-city-stenersgata-1-oslo-03-0550-no"
+// storeNumber: "20264-200472"
+// timeZoneInfo: { currentTimeOffset: 120, windowsTimeZoneId: "W. Europe Standard Time", … }
+// currentTimeOffset: 120
+// olsonTimeZoneId: "GMT+1:00 Europe/Oslo"
+// windowsTimeZoneId: "W. Europe Standard Time"
+// 1: { recommendation: { }, storeNumber: "21471-200466", id: "1008240", name: "Torggata", phoneNumber: null, … }
+// address: { streetAddressLine1: "Torggata 17B", streetAddressLine2: "Oslo Sentrum", streetAddressLine3: null, … }
+// city: "Oslo"
+// countryCode: "NO"
+// countrySubdivisionCode: "03"
+// postalCode: "0183"
+// streetAddressLine1: "Torggata 17B"
+// streetAddressLine2: "Oslo Sentrum"
+// streetAddressLine3: null
+// addressLines: ["Torggata 17B", "Oslo Sentrum", "Oslo, 03 0183"]
+// 0: "Torggata 17B"
+// 1: "Oslo Sentrum"
+// 2: "Oslo, 03 0183"
+// brandName: "Starbucks"
+// coordinates: { latitude: 59.916237, longitude: 10.752071 }
+// latitude: 59.916237
+// longitude: 10.752071
+// features: [{ code: "WF", name: "Wireless Hotspot" }, { code: "RW", name: "My Starbucks Rewards" }]
+// 0: { code: "WF", name: "Wireless Hotspot" }
+// code: "WF"
+// name: "Wireless Hotspot"
+// 1: { code: "RW", name: "My Starbucks Rewards" }
+// code: "RW"
+// name: "My Starbucks Rewards"
+// id: "1008240"
+// mop: { ready: false, wait: null }
+// ready: false
+// wait: null
+// name: "Torggata"
+// open: false
+// openStatusText: "Closed"
+// ownershipTypeCode: "LS"
+// phoneNumber: null
+// recommendation: { }
+// regulations: []
+// schedule: [{ dayName: "Today", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }, …]
+// 0: { dayName: "Today", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }
+// dayName: "Today"
+// holiday: ""
+// hours: "10:00 AM to 7:00 PM"
+// open: true
+// 1: { dayName: "Tomorrow", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }
+// dayName: "Tomorrow"
+// holiday: ""
+// hours: "10:00 AM to 7:00 PM"
+// open: true
+// 2: { dayName: "Friday", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }
+// dayName: "Friday"
+// holiday: ""
+// hours: "10:00 AM to 7:00 PM"
+// open: true
+// 3: { dayName: "Saturday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Saturday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 4: { dayName: "Sunday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Sunday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 5: { dayName: "Monday", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }
+// dayName: "Monday"
+// holiday: ""
+// hours: "10:00 AM to 7:00 PM"
+// open: true
+// 6: { dayName: "Tuesday", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }
+// dayName: "Tuesday"
+// holiday: ""
+// hours: "10:00 AM to 7:00 PM"
+// open: true
+// slug: "torggata-torggata-17-b-oslo-03-0183-no"
+// storeNumber: "21471-200466"
+// timeZoneInfo: { currentTimeOffset: 120, windowsTimeZoneId: "W. Europe Standard Time", … }
+// currentTimeOffset: 120
+// olsonTimeZoneId: "GMT+1:00 Europe/Oslo"
+// windowsTimeZoneId: "W. Europe Standard Time"
+// 2: { recommendation: { }, storeNumber: "20624-200471", id: "1006161", name: "Oslo S", phoneNumber: null, … }
+// address: { streetAddressLine1: "Jernbanetorget 1", streetAddressLine2: "Oslo Central Station", … }
+// city: "Oslo"
+// countryCode: "NO"
+// countrySubdivisionCode: "03"
+// postalCode: "0154"
+// streetAddressLine1: "Jernbanetorget 1"
+// streetAddressLine2: "Oslo Central Station"
+// streetAddressLine3: null
+// addressLines: ["Jernbanetorget 1", "Oslo Central Station", "Oslo, 03 0154"]
+// 0: "Jernbanetorget 1"
+// 1: "Oslo Central Station"
+// 2: "Oslo, 03 0154"
+// brandName: "Starbucks"
+// coordinates: { latitude: 59.911178, longitude: 10.752643 }
+// latitude: 59.911178
+// longitude: 10.752643
+// features: [{ code: "CL", name: "Starbucks Reserve-Clover Brewed" }, { code: "WF", name: "Wireless Hotspot" }, …]
+// 0: { code: "CL", name: "Starbucks Reserve-Clover Brewed" }
+// code: "CL"
+// name: "Starbucks Reserve-Clover Brewed"
+// 1: { code: "WF", name: "Wireless Hotspot" }
+// code: "WF"
+// name: "Wireless Hotspot"
+// 2: { code: "RW", name: "My Starbucks Rewards" }
+// code: "RW"
+// name: "My Starbucks Rewards"
+// 3: { code: "WT", name: "tbd - Walk-T" }
+// code: "WT"
+// name: "tbd - Walk-T"
+// id: "1006161"
+// mop: { ready: false, wait: null }
+// ready: false
+// wait: null
+// name: "Oslo S"
+// open: false
+// openStatusText: "Closed"
+// ownershipTypeCode: "LS"
+// phoneNumber: null
+// recommendation: { }
+// regulations: []
+// schedule: [{ dayName: "Today", hours: "8:00 AM to 9:00 PM", open: true, holiday: "" }, …]
+// 0: { dayName: "Today", hours: "8:00 AM to 9:00 PM", open: true, holiday: "" }
+// dayName: "Today"
+// holiday: ""
+// hours: "8:00 AM to 9:00 PM"
+// open: true
+// 1: { dayName: "Tomorrow", hours: "8:00 AM to 9:00 PM", open: true, holiday: "" }
+// dayName: "Tomorrow"
+// holiday: ""
+// hours: "8:00 AM to 9:00 PM"
+// open: true
+// 2: { dayName: "Friday", hours: "8:00 AM to 9:00 PM", open: true, holiday: "" }
+// dayName: "Friday"
+// holiday: ""
+// hours: "8:00 AM to 9:00 PM"
+// open: true
+// 3: { dayName: "Saturday", hours: "8:00 AM to 9:00 PM", open: true, holiday: "" }
+// dayName: "Saturday"
+// holiday: ""
+// hours: "8:00 AM to 9:00 PM"
+// open: true
+// 4: { dayName: "Sunday", hours: "9:00 AM to 9:00 PM", open: true, holiday: "" }
+// dayName: "Sunday"
+// holiday: ""
+// hours: "9:00 AM to 9:00 PM"
+// open: true
+// 5: { dayName: "Monday", hours: "8:00 AM to 9:00 PM", open: true, holiday: "" }
+// dayName: "Monday"
+// holiday: ""
+// hours: "8:00 AM to 9:00 PM"
+// open: true
+// 6: { dayName: "Tuesday", hours: "8:00 AM to 9:00 PM", open: true, holiday: "" }
+// dayName: "Tuesday"
+// holiday: ""
+// hours: "8:00 AM to 9:00 PM"
+// open: true
+// slug: "oslo-s-jernbanetorget-1-oslo-03-0154-no"
+// storeNumber: "20624-200471"
+// timeZoneInfo: { currentTimeOffset: 120, windowsTimeZoneId: "W. Europe Standard Time", … }
+// currentTimeOffset: 120
+// olsonTimeZoneId: "GMT+1:00 Europe/Oslo"
+// windowsTimeZoneId: "W. Europe Standard Time"
+// 3: { recommendation: { }, storeNumber: "50802-273185", id: "1018019", name: "Gronlandsleiret", … }
+// address: { streetAddressLine1: "Gronlandsleiret 1", streetAddressLine2: null, streetAddressLine3: null, … }
+// city: "Oslo"
+// countryCode: "NO"
+// countrySubdivisionCode: "03"
+// postalCode: "190"
+// streetAddressLine1: "Gronlandsleiret 1"
+// streetAddressLine2: null
+// streetAddressLine3: null
+// addressLines: ["Gronlandsleiret 1", "Oslo, 03 190"]
+// 0: "Gronlandsleiret 1"
+// 1: "Oslo, 03 190"
+// brandName: "Starbucks"
+// coordinates: { latitude: 59.91262, longitude: 10.761799 }
+// latitude: 59.91262
+// longitude: 10.761799
+// features: []
+// id: "1018019"
+// mop: { ready: false, wait: null }
+// ready: false
+// wait: null
+// name: "Gronlandsleiret"
+// open: false
+// openStatusText: "Closed"
+// ownershipTypeCode: "LS"
+// phoneNumber: null
+// recommendation: { }
+// regulations: []
+// schedule: [{ dayName: "Today", hours: "11:00 AM to 6:00 PM", open: true, holiday: "" }, …]
+// 0: { dayName: "Today", hours: "11:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Today"
+// holiday: ""
+// hours: "11:00 AM to 6:00 PM"
+// open: true
+// 1: { dayName: "Tomorrow", hours: "11:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Tomorrow"
+// holiday: ""
+// hours: "11:00 AM to 6:00 PM"
+// open: true
+// 2: { dayName: "Friday", hours: "11:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Friday"
+// holiday: ""
+// hours: "11:00 AM to 6:00 PM"
+// open: true
+// 3: { dayName: "Saturday", hours: "11:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Saturday"
+// holiday: ""
+// hours: "11:00 AM to 6:00 PM"
+// open: true
+// 4: { dayName: "Sunday", hours: "Closed", open: false, holiday: "" }
+// dayName: "Sunday"
+// holiday: ""
+// hours: "Closed"
+// open: false
+// 5: { dayName: "Monday", hours: "11:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Monday"
+// holiday: ""
+// hours: "11:00 AM to 6:00 PM"
+// open: true
+// 6: { dayName: "Tuesday", hours: "11:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Tuesday"
+// holiday: ""
+// hours: "11:00 AM to 6:00 PM"
+// open: true
+// slug: "gronlandsleiret-gronlandsleiret-1-oslo-03-190-no"
+// storeNumber: "50802-273185"
+// timeZoneInfo: { currentTimeOffset: 120, windowsTimeZoneId: "W. Europe Standard Time", … }
+// currentTimeOffset: 120
+// olsonTimeZoneId: "GMT+1:00 Europe/Oslo"
+// windowsTimeZoneId: "W. Europe Standard Time"
+// 4: { recommendation: { }, storeNumber: "29114-252386", id: "1014706", name: "Aker Brygge", … }
+// address: { streetAddressLine1: "Stranden 7", streetAddressLine2: "Aker Brygge", streetAddressLine3: null, … }
+// city: "Oslo"
+// countryCode: "NO"
+// countrySubdivisionCode: "03"
+// postalCode: "0250"
+// streetAddressLine1: "Stranden 7"
+// streetAddressLine2: "Aker Brygge"
+// streetAddressLine3: null
+// addressLines: ["Stranden 7", "Aker Brygge", "Oslo, 03 0250"]
+// 0: "Stranden 7"
+// 1: "Aker Brygge"
+// 2: "Oslo, 03 0250"
+// brandName: "Starbucks"
+// coordinates: { latitude: 59.909741, longitude: 10.726905 }
+// latitude: 59.909741
+// longitude: 10.726905
+// features: [{ code: "WA", name: "Oven-warmed Food" }, { code: "WF", name: "Wireless Hotspot" }]
+// 0: { code: "WA", name: "Oven-warmed Food" }
+// code: "WA"
+// name: "Oven-warmed Food"
+// 1: { code: "WF", name: "Wireless Hotspot" }
+// code: "WF"
+// name: "Wireless Hotspot"
+// id: "1014706"
+// mop: { ready: false, wait: null }
+// ready: false
+// wait: null
+// name: "Aker Brygge"
+// open: false
+// openStatusText: "Closed"
+// ownershipTypeCode: "LS"
+// phoneNumber: "4792036078"
+// recommendation: { }
+// regulations: []
+// schedule: [{ dayName: "Today", hours: "11:00 AM to 6:00 PM", open: true, holiday: "" }, …]
+// 0: { dayName: "Today", hours: "11:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Today"
+// holiday: ""
+// hours: "11:00 AM to 6:00 PM"
+// open: true
+// 1: { dayName: "Tomorrow", hours: "11:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Tomorrow"
+// holiday: ""
+// hours: "11:00 AM to 6:00 PM"
+// open: true
+// 2: { dayName: "Friday", hours: "11:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Friday"
+// holiday: ""
+// hours: "11:00 AM to 6:00 PM"
+// open: true
+// 3: { dayName: "Saturday", hours: "11:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Saturday"
+// holiday: ""
+// hours: "11:00 AM to 6:00 PM"
+// open: true
+// 4: { dayName: "Sunday", hours: "11:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Sunday"
+// holiday: ""
+// hours: "11:00 AM to 6:00 PM"
+// open: true
+// 5: { dayName: "Monday", hours: "11:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Monday"
+// holiday: ""
+// hours: "11:00 AM to 6:00 PM"
+// open: true
+// 6: { dayName: "Tuesday", hours: "11:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Tuesday"
+// holiday: ""
+// hours: "11:00 AM to 6:00 PM"
+// open: true
+// slug: "aker-brygge-stranden-7-oslo-03-0250-no"
+// storeNumber: "29114-252386"
+// timeZoneInfo: { currentTimeOffset: 120, windowsTimeZoneId: "W. Europe Standard Time", … }
+// currentTimeOffset: 120
+// olsonTimeZoneId: "GMT+1:00 Europe/Oslo"
+// windowsTimeZoneId: "W. Europe Standard Time"
+// 5: { recommendation: { }, storeNumber: "19938-200465", id: "1005712", name: "Bogstadveien 60", … }
+// address: { streetAddressLine1: "Bogstadveien 60", streetAddressLine2: "Majorstuen", streetAddressLine3: null, … }
+// city: "Oslo"
+// countryCode: "NO"
+// countrySubdivisionCode: "03"
+// postalCode: "0366"
+// streetAddressLine1: "Bogstadveien 60"
+// streetAddressLine2: "Majorstuen"
+// streetAddressLine3: null
+// addressLines: ["Bogstadveien 60", "Majorstuen", "Oslo, 03 0366"]
+// 0: "Bogstadveien 60"
+// 1: "Majorstuen"
+// 2: "Oslo, 03 0366"
+// brandName: "Starbucks"
+// coordinates: { latitude: 59.928263, longitude: 10.717134 }
+// latitude: 59.928263
+// longitude: 10.717134
+// features: [{ code: "WF", name: "Wireless Hotspot" }, { code: "RW", name: "My Starbucks Rewards" }]
+// 0: { code: "WF", name: "Wireless Hotspot" }
+// code: "WF"
+// name: "Wireless Hotspot"
+// 1: { code: "RW", name: "My Starbucks Rewards" }
+// code: "RW"
+// name: "My Starbucks Rewards"
+// id: "1005712"
+// mop: { ready: false, wait: null }
+// ready: false
+// wait: null
+// name: "Bogstadveien 60"
+// open: false
+// openStatusText: "Closed"
+// ownershipTypeCode: "LS"
+// phoneNumber: null
+// recommendation: { }
+// regulations: []
+// schedule: [{ dayName: "Today", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }, …]
+// 0: { dayName: "Today", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Today"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 1: { dayName: "Tomorrow", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Tomorrow"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 2: { dayName: "Friday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Friday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 3: { dayName: "Saturday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Saturday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 4: { dayName: "Sunday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Sunday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 5: { dayName: "Monday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Monday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 6: { dayName: "Tuesday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Tuesday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// slug: "bogstadveien-60-bogstadveien-60-oslo-03-0366-no"
+// storeNumber: "19938-200465"
+// timeZoneInfo: { currentTimeOffset: 120, windowsTimeZoneId: "W. Europe Standard Time", … }
+// currentTimeOffset: 120
+// olsonTimeZoneId: "GMT+1:00 Europe/Oslo"
+// windowsTimeZoneId: "W. Europe Standard Time"
+// 6: { recommendation: { }, storeNumber: "23209-228385", id: "1009109", name: "Skøyen", phoneNumber: null, … }
+// address: { streetAddressLine1: "Karenlyst Alle 11", streetAddressLine2: "Skøyen", streetAddressLine3: null, … }
+// city: "Oslo"
+// countryCode: "NO"
+// countrySubdivisionCode: "03"
+// postalCode: "0278"
+// streetAddressLine1: "Karenlyst Alle 11"
+// streetAddressLine2: "Skøyen"
+// streetAddressLine3: null
+// addressLines: ["Karenlyst Alle 11", "Skøyen", "Oslo, 03 0278"]
+// 0: "Karenlyst Alle 11"
+// 1: "Skøyen"
+// 2: "Oslo, 03 0278"
+// brandName: "Starbucks"
+// coordinates: { latitude: 59.920746, longitude: 10.682698 }
+// latitude: 59.920746
+// longitude: 10.682698
+// features: [{ code: "WF", name: "Wireless Hotspot" }, { code: "RW", name: "My Starbucks Rewards" }]
+// 0: { code: "WF", name: "Wireless Hotspot" }
+// code: "WF"
+// name: "Wireless Hotspot"
+// 1: { code: "RW", name: "My Starbucks Rewards" }
+// code: "RW"
+// name: "My Starbucks Rewards"
+// id: "1009109"
+// mop: { ready: false, wait: null }
+// ready: false
+// wait: null
+// name: "Skøyen"
+// open: false
+// openStatusText: "Closed"
+// ownershipTypeCode: "LS"
+// phoneNumber: null
+// recommendation: { }
+// regulations: []
+// schedule: [{ dayName: "Today", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }, …]
+// 0: { dayName: "Today", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Today"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 1: { dayName: "Tomorrow", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Tomorrow"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 2: { dayName: "Friday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Friday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 3: { dayName: "Saturday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Saturday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 4: { dayName: "Sunday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Sunday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 5: { dayName: "Monday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Monday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 6: { dayName: "Tuesday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Tuesday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// slug: "skoyen-karenlyst-alle-11-oslo-03-0278-no"
+// storeNumber: "23209-228385"
+// timeZoneInfo: { currentTimeOffset: 120, windowsTimeZoneId: "W. Europe Standard Time", … }
+// currentTimeOffset: 120
+// olsonTimeZoneId: "GMT+1:00 Europe/Oslo"
+// windowsTimeZoneId: "W. Europe Standard Time"
+// 7: { recommendation: { }, storeNumber: "26245-244108", id: "1012561", … }
+// address: { streetAddressLine1: "Nydalsveien 37", streetAddressLine2: null, streetAddressLine3: null, … }
+// city: "Oslo"
+// countryCode: "NO"
+// countrySubdivisionCode: "03"
+// postalCode: "NO-03"
+// streetAddressLine1: "Nydalsveien 37"
+// streetAddressLine2: null
+// streetAddressLine3: null
+// addressLines: ["Nydalsveien 37", "Oslo, 03 NO-03"]
+// 0: "Nydalsveien 37"
+// 1: "Oslo, 03 NO-03"
+// brandName: "Starbucks"
+// coordinates: { latitude: 59.948752, longitude: 10.767438 }
+// latitude: 59.948752
+// longitude: 10.767438
+// features: [{ code: "WF", name: "Wireless Hotspot" }]
+// 0: { code: "WF", name: "Wireless Hotspot" }
+// code: "WF"
+// name: "Wireless Hotspot"
+// id: "1012561"
+// mop: { ready: false, wait: null }
+// ready: false
+// wait: null
+// name: "Oslo - BI Norwegian Business School"
+// open: null
+// openStatusText: ""
+// ownershipTypeCode: "LS"
+// phoneNumber: null
+// recommendation: { }
+// regulations: []
+// slug: "oslo-bi-norwegian-business-school-nydalsveien-37-oslo-03-no-03-no"
+// storeNumber: "26245-244108"
+// timeZoneInfo: { currentTimeOffset: 120, windowsTimeZoneId: "W. Europe Standard Time", … }
+// currentTimeOffset: 120
+// olsonTimeZoneId: "GMT+1:00 Europe/Oslo"
+// windowsTimeZoneId: "W. Europe Standard Time"
+// 8: { recommendation: { }, storeNumber: "23682-232584", id: "1009765", name: "Sandvika Storsenter", … }
+// address: { streetAddressLine1: "Brodtkorpgt 7", streetAddressLine2: "Bærum", streetAddressLine3: null, … }
+// city: "Sandvika"
+// countryCode: "NO"
+// countrySubdivisionCode: "02"
+// postalCode: "1338"
+// streetAddressLine1: "Brodtkorpgt 7"
+// streetAddressLine2: "Bærum"
+// streetAddressLine3: null
+// addressLines: ["Brodtkorpgt 7", "Bærum", "Sandvika, 02 1338"]
+// 0: "Brodtkorpgt 7"
+// 1: "Bærum"
+// 2: "Sandvika, 02 1338"
+// brandName: "Starbucks"
+// coordinates: { latitude: 59.89011, longitude: 10.52038 }
+// latitude: 59.89011
+// longitude: 10.52038
+// features: [{ code: "WF", name: "Wireless Hotspot" }, { code: "RW", name: "My Starbucks Rewards" }]
+// 0: { code: "WF", name: "Wireless Hotspot" }
+// code: "WF"
+// name: "Wireless Hotspot"
+// 1: { code: "RW", name: "My Starbucks Rewards" }
+// code: "RW"
+// name: "My Starbucks Rewards"
+// id: "1009765"
+// mop: { ready: false, wait: null }
+// ready: false
+// wait: null
+// name: "Sandvika Storsenter"
+// open: false
+// openStatusText: "Closed"
+// ownershipTypeCode: "LS"
+// phoneNumber: null
+// recommendation: { }
+// regulations: []
+// schedule: [{ dayName: "Today", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }, …]
+// 0: { dayName: "Today", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }
+// dayName: "Today"
+// holiday: ""
+// hours: "10:00 AM to 7:00 PM"
+// open: true
+// 1: { dayName: "Tomorrow", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }
+// dayName: "Tomorrow"
+// holiday: ""
+// hours: "10:00 AM to 7:00 PM"
+// open: true
+// 2: { dayName: "Friday", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }
+// dayName: "Friday"
+// holiday: ""
+// hours: "10:00 AM to 7:00 PM"
+// open: true
+// 3: { dayName: "Saturday", hours: "9:00 AM to 7:00 PM", open: true, holiday: "" }
+// dayName: "Saturday"
+// holiday: ""
+// hours: "9:00 AM to 7:00 PM"
+// open: true
+// 4: { dayName: "Sunday", hours: "Closed", open: false, holiday: "" }
+// dayName: "Sunday"
+// holiday: ""
+// hours: "Closed"
+// open: false
+// 5: { dayName: "Monday", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }
+// dayName: "Monday"
+// holiday: ""
+// hours: "10:00 AM to 7:00 PM"
+// open: true
+// 6: { dayName: "Tuesday", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }
+// dayName: "Tuesday"
+// holiday: ""
+// hours: "10:00 AM to 7:00 PM"
+// open: true
+// slug: "sandvika-storsenter-brodtkorpgt-7-sandvika-02-1338-no"
+// storeNumber: "23682-232584"
+// timeZoneInfo: { currentTimeOffset: 120, windowsTimeZoneId: "W. Europe Standard Time", … }
+// currentTimeOffset: 120
+// olsonTimeZoneId: "GMT+1:00 Europe/Oslo"
+// windowsTimeZoneId: "W. Europe Standard Time"
+// 9: { recommendation: { }, storeNumber: "55263-289117", id: "1022048", name: "Strommen Storsenter", … }
+// address: { streetAddressLine1: "Stoperiveien 5", streetAddressLine2: null, streetAddressLine3: null, … }
+// city: "Strommen"
+// countryCode: "NO"
+// countrySubdivisionCode: "03"
+// postalCode: "2010"
+// streetAddressLine1: "Stoperiveien 5"
+// streetAddressLine2: null
+// streetAddressLine3: null
+// addressLines: ["Stoperiveien 5", "Strommen, 03 2010"]
+// 0: "Stoperiveien 5"
+// 1: "Strommen, 03 2010"
+// brandName: "Starbucks"
+// coordinates: { latitude: 59.947787, longitude: 11.007657 }
+// latitude: 59.947787
+// longitude: 11.007657
+// features: []
+// id: "1022048"
+// mop: { ready: false, wait: null }
+// ready: false
+// wait: null
+// name: "Strommen Storsenter"
+// open: false
+// openStatusText: "Closed"
+// ownershipTypeCode: "LS"
+// phoneNumber: null
+// recommendation: { }
+// regulations: []
+// schedule: [{ dayName: "Today", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }, …]
+// 0: { dayName: "Today", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }
+// dayName: "Today"
+// holiday: ""
+// hours: "10:00 AM to 7:00 PM"
+// open: true
+// 1: { dayName: "Tomorrow", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }
+// dayName: "Tomorrow"
+// holiday: ""
+// hours: "10:00 AM to 7:00 PM"
+// open: true
+// 2: { dayName: "Friday", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }
+// dayName: "Friday"
+// holiday: ""
+// hours: "10:00 AM to 7:00 PM"
+// open: true
+// 3: { dayName: "Saturday", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }
+// dayName: "Saturday"
+// holiday: ""
+// hours: "10:00 AM to 7:00 PM"
+// open: true
+// 4: { dayName: "Sunday", hours: "Closed", open: false, holiday: "" }
+// dayName: "Sunday"
+// holiday: ""
+// hours: "Closed"
+// open: false
+// 5: { dayName: "Monday", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }
+// dayName: "Monday"
+// holiday: ""
+// hours: "10:00 AM to 7:00 PM"
+// open: true
+// 6: { dayName: "Tuesday", hours: "10:00 AM to 7:00 PM", open: true, holiday: "" }
+// dayName: "Tuesday"
+// holiday: ""
+// hours: "10:00 AM to 7:00 PM"
+// open: true
+// slug: "strommen-storsenter-stoperiveien-5-strommen-03-2010-no"
+// storeNumber: "55263-289117"
+// timeZoneInfo: { currentTimeOffset: 120, windowsTimeZoneId: "W. Europe Standard Time", … }
+// currentTimeOffset: 120
+// olsonTimeZoneId: "GMT+1:00 Europe/Oslo"
+// windowsTimeZoneId: "W. Europe Standard Time"
+// 10: { recommendation: { }, storeNumber: "23975-234484", id: "1009633", name: "Jessheim Storsenter", … }
+// address: { streetAddressLine1: "Storgata 6", streetAddressLine2: "Jessheim Sentrum", streetAddressLine3: null, … }
+// city: "Jessheim"
+// countryCode: "NO"
+// countrySubdivisionCode: "02"
+// postalCode: "2050"
+// streetAddressLine1: "Storgata 6"
+// streetAddressLine2: "Jessheim Sentrum"
+// streetAddressLine3: null
+// addressLines: ["Storgata 6", "Jessheim Sentrum", "Jessheim, 02 2050"]
+// 0: "Storgata 6"
+// 1: "Jessheim Sentrum"
+// 2: "Jessheim, 02 2050"
+// brandName: "Starbucks"
+// coordinates: { latitude: 60.142759, longitude: 11.171831 }
+// latitude: 60.142759
+// longitude: 11.171831
+// features: [{ code: "WF", name: "Wireless Hotspot" }, { code: "RW", name: "My Starbucks Rewards" }]
+// 0: { code: "WF", name: "Wireless Hotspot" }
+// code: "WF"
+// name: "Wireless Hotspot"
+// 1: { code: "RW", name: "My Starbucks Rewards" }
+// code: "RW"
+// name: "My Starbucks Rewards"
+// id: "1009633"
+// mop: { ready: false, wait: null }
+// ready: false
+// wait: null
+// name: "Jessheim Storsenter"
+// open: false
+// openStatusText: "Closed"
+// ownershipTypeCode: "LS"
+// phoneNumber: null
+// recommendation: { }
+// regulations: []
+// schedule: [{ dayName: "Today", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }, …]
+// 0: { dayName: "Today", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Today"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 1: { dayName: "Tomorrow", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Tomorrow"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 2: { dayName: "Friday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Friday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 3: { dayName: "Saturday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Saturday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 4: { dayName: "Sunday", hours: "Closed", open: false, holiday: "" }
+// dayName: "Sunday"
+// holiday: ""
+// hours: "Closed"
+// open: false
+// 5: { dayName: "Monday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Monday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 6: { dayName: "Tuesday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Tuesday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// slug: "jessheim-storsenter-storgata-6-jessheim-02-2050-no"
+// storeNumber: "23975-234484"
+// timeZoneInfo: { currentTimeOffset: 120, windowsTimeZoneId: "W. Europe Standard Time", … }
+// currentTimeOffset: 120
+// olsonTimeZoneId: "GMT+1:00 Europe/Oslo"
+// windowsTimeZoneId: "W. Europe Standard Time"
+// 11: { recommendation: { }, storeNumber: "23605-231565", id: "1009237", name: "Magasinet, Drammen", … }
+// address: { streetAddressLine1: "Nedre Storgate 6", streetAddressLine2: "Drammen Sentrum", … }
+// city: "Drammen"
+// countryCode: "NO"
+// countrySubdivisionCode: "06"
+// postalCode: "3015"
+// streetAddressLine1: "Nedre Storgate 6"
+// streetAddressLine2: "Drammen Sentrum"
+// streetAddressLine3: null
+// addressLines: ["Nedre Storgate 6", "Drammen Sentrum", "Drammen, 06 3015"]
+// 0: "Nedre Storgate 6"
+// 1: "Drammen Sentrum"
+// 2: "Drammen, 06 3015"
+// brandName: "Starbucks"
+// coordinates: { latitude: 59.743288, longitude: 10.204743 }
+// latitude: 59.743288
+// longitude: 10.204743
+// features: [{ code: "WF", name: "Wireless Hotspot" }, { code: "RW", name: "My Starbucks Rewards" }]
+// 0: { code: "WF", name: "Wireless Hotspot" }
+// code: "WF"
+// name: "Wireless Hotspot"
+// 1: { code: "RW", name: "My Starbucks Rewards" }
+// code: "RW"
+// name: "My Starbucks Rewards"
+// id: "1009237"
+// mop: { ready: false, wait: null }
+// ready: false
+// wait: null
+// name: "Magasinet, Drammen"
+// open: false
+// openStatusText: "Closed"
+// ownershipTypeCode: "LS"
+// phoneNumber: "464 26 508"
+// recommendation: { }
+// regulations: []
+// schedule: [{ dayName: "Today", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }, …]
+// 0: { dayName: "Today", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Today"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 1: { dayName: "Tomorrow", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Tomorrow"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 2: { dayName: "Friday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Friday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 3: { dayName: "Saturday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Saturday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 4: { dayName: "Sunday", hours: "Closed", open: false, holiday: "" }
+// dayName: "Sunday"
+// holiday: ""
+// hours: "Closed"
+// open: false
+// 5: { dayName: "Monday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Monday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// 6: { dayName: "Tuesday", hours: "10:00 AM to 6:00 PM", open: true, holiday: "" }
+// dayName: "Tuesday"
+// holiday: ""
+// hours: "10:00 AM to 6:00 PM"
+// open: true
+// slug: "magasinet-drammen-nedre-storgate-6-drammen-06-3015-no"
+// storeNumber: "23605-231565"
+// timeZoneInfo: { currentTimeOffset: 120, windowsTimeZoneId: "W. Europe Standard Time", … }
+// currentTimeOffset: 120
+// olsonTimeZoneId: "GMT+1:00 Europe/Oslo"
+// windowsTimeZoneId: "W. Europe Standard Time"
+// 12: { recommendation: { }, storeNumber: "29572-254329", id: "1016217", … }
+// address: { streetAddressLine1: "1st fl Landside Domestic", streetAddressLine2: "Dep. Unit 05.306", … }
+// city: "Gardermoen"
+// countryCode: "NO"
+// countrySubdivisionCode: "03"
+// postalCode: "2061"
+// streetAddressLine1: "1st fl Landside Domestic"
+// streetAddressLine2: "Dep. Unit 05.306"
+// streetAddressLine3: null
+// addressLines: ["1st fl Landside Domestic", "Dep. Unit 05.306", "Gardermoen, 03 2061"]
+// 0: "1st fl Landside Domestic"
+// 1: "Dep. Unit 05.306"
+// 2: "Gardermoen, 03 2061"
+// brandName: "Starbucks"
+// coordinates: { latitude: 60.193553, longitude: 11.098805 }
+// latitude: 60.193553
+// longitude: 11.098805
+// features: []
+// id: "1016217"
+// mop: { ready: false, wait: null }
+// ready: false
+// wait: null
+// name: "Oslo Airport Landside Departures"
+// open: null
+// openStatusText: ""
+// ownershipTypeCode: "LS"
+// phoneNumber: null
+// recommendation: { }
+// regulations: []
+// slug: "oslo-airport-landside-departures-1st-fl-landside-domestic-gardermoen-03-2061-no"
+// storeNumber: "29572-254329"
+// timeZoneInfo: { currentTimeOffset: 120, windowsTimeZoneId: "W. Europe Standard Time", … }
+// currentTimeOffset: 120
+// olsonTimeZoneId: "GMT+1:00 Europe/Oslo"
+// windowsTimeZoneId: "W. Europe Standard Time"
+// 13: { recommendation: { }, storeNumber: "29573-254328", id: "1014055", … }
+// address: { streetAddressLine1: "1st Fl, Airside Int. Dep. Unit 05.323B", … }
+// city: "Gardermoen"
+// countryCode: "NO"
+// countrySubdivisionCode: "03"
+// postalCode: "2061"
+// streetAddressLine1: "1st Fl, Airside Int. Dep. Unit 05.323B"
+// streetAddressLine2: "Internationall Departures"
+// streetAddressLine3: null
+// addressLines: ["1st Fl, Airside Int. Dep. Unit 05.323B", "Internationall Departures", "Gardermoen, 03 2061"]
+// 0: "1st Fl, Airside Int. Dep. Unit 05.323B"
+// 1: "Internationall Departures"
+// 2: "Gardermoen, 03 2061"
+// brandName: "Starbucks"
+// coordinates: { latitude: 60.193553, longitude: 11.098985 }
+// latitude: 60.193553
+// longitude: 11.098985
+// features: []
+// id: "1014055"
+// mop: { ready: false, wait: null }
+// ready: false
+// wait: null
+// name: "Oslo Airport Airside Departures"
+// open: null
+// openStatusText: ""
+// ownershipTypeCode: "LS"
+// phoneNumber: null
+// recommendation: { }
+// regulations: []
+// slug: "oslo-airport-airside-departures-1st-fl-airside-int-dep-unit-05-323-b-gardermoen-03"
+// storeNumber: "29573-254328"
+// timeZoneInfo: { currentTimeOffset: 120, windowsTimeZoneId: "W. Europe Standard Time", … }
+// currentTimeOffset: 120
+// olsonTimeZoneId: "GMT+1:00 Europe/Oslo"
+// windowsTimeZoneId: "W. Europe Standard Time"

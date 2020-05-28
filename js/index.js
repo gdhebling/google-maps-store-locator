@@ -231,9 +231,18 @@ function showStoresMarkers() {
 
 function createMarker(latlng, name, address) {
     var html = "<b>" + name + "</b> <br/>" + address;
+
+
+    var image = {
+      // url: 'https://cdn.iconscout.com/icon/premium/png-256-thumb/coffee-shop-50862.png',
+      url: 'https://i.pinimg.com/originals/53/ef/28/53ef2887618aeccfb63d0165f8202ffe.png',
+      scaledSize: new google.maps.Size(40, 40),
+    };
+
     var marker = new google.maps.Marker({
       map: map,
-      position: latlng
+      position: latlng,
+      icon: image,
     });
     google.maps.event.addListener(marker, 'click', function() {
       infoWindow.setContent(html);

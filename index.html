@@ -10,11 +10,13 @@
     <script src="js/store-data.js"></script>
 </head>
 <body>
-     <div class="title">Store Locator</div>
+    <div class="heading">
+        <div class="title">Find a Store</div>
+    </div>
     <div class="search-container">
         <div class="search">
-            <input id="zip-code-input" type="text" placeholder="Enter your address." />
-            <i class="fas fa-search" onclick="searchStores()"></i>
+            <input id="zip-code-input" type="text" placeholder="Enter the Zip Code and press ENTER">
+            <i id="myBtn" class="fas fa-search" onclick="searchStores()"></i>
         </div>
     </div>
     <div class="stores-list-container">

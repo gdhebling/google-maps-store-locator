@@ -8,7 +8,6 @@ body {
 }
 
 /* Scrollbars: */
-
 /* width */
 ::-webkit-scrollbar {
     width: 10px;
@@ -29,16 +28,18 @@ body {
     background: #555;
   }
 
-
+  /* Google Maps map: */
 #map {
     height: 100vh;
 }
 
+
+/* Title */
 .title {
     position: absolute;
     top: 50px;
     left: 50px;
-    font-size: 9vh;
+    font-size: 8vw;
     z-index: 30;
     font-weight: bold;
     text-transform: uppercase;
@@ -50,8 +51,10 @@ body {
     font-family: 'Permanent Marker', cursive;
 }
 
+/* Search container */
 .search-container {
-    width: 400px;
+    width: 40vw;
+    max-width: 400px;
     height: 60px;
     background-color: #6f6f89ce;
     position: absolute;
@@ -96,8 +99,10 @@ body {
     font-size: 25px;
 }
 
+/* Stores list */
 .stores-list-container {
-    width: 400px;
+    width: 40vw;
+    max-width: 400px;
     background-color: white;
     position: absolute;
     z-index: 30;
@@ -108,7 +113,6 @@ body {
     max-height: 800px;
     overflow: hidden;
 }
-
 
 .stores-list {
     overflow-y: scroll;

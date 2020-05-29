@@ -183,11 +183,47 @@ function initMap() {
     ],
   });
   infoWindow = new google.maps.InfoWindow();
-  displayStores()
-  showStoresMarkers()
+  searchStores();
 }
 
-function displayStores() {
+function searchStores() {
+  var foundStores = [];
+  var zipCode = document.getElementById('zip-code-input').value;
+  if (zipCode) {
+    stores.forEach(function (store) {
+      var postal = store.address.postalCode.substring(0, 5);
+      if (postal == zipCode) {
+        foundStores.push(store);
+      };
+    });
+  } else {
+    foundStores = stores;
+  }
+  clearLocations();
+  displayStores(foundStores);
+  showStoresMarkers(foundStores);
+  setOnClickListener();
+}
+
+function clearLocations() {
+  infoWindow.close();
+  for (var i = 0; i < markers.length; i++) {
+    markers[i].setMap(null);
+  }
+  markers.length = 0;
+}
+
+
+function setOnClickListener() {
+  var storeElements = document.querySelectorAll('.store-container');
+  storeElements.forEach(function (elem, index) {
+    elem.addEventListener('click', function () {
+      google.maps.event.trigger(markers[index], 'click');
+    })
+  });
+}
+
+function displayStores(stores) {
   var storesHtml = "";
   stores.forEach(function (store, index) {
     var address = store.addressLines;
@@ -213,25 +249,24 @@ function displayStores() {
 }
 
 
-function showStoresMarkers() {
+function showStoresMarkers(stores) {
   var bounds = new google.maps.LatLngBounds();
   stores.forEach(function (store, index) {
     var latlng = new google.maps.LatLng(
       store.coordinates.latitude,
       store.coordinates.longitude);
-    console.log(latlng);
     var name = store.name;
     var address = store.addressLines[0];
     var openStatusText = store.openStatusText;
     var phoneNumber = store.phoneNumber;
     bounds.extend(latlng);
-    createMarker(latlng, name, address, openStatusText, phoneNumber);
+    createMarker(latlng, name, address, openStatusText, phoneNumber, index);
   })
   map.fitBounds(bounds);
 }
 
 
-function createMarker(latlng, name, address, openStatusText, phoneNumber) {
+function createMarker(latlng, name, address, openStatusText, phoneNumber, index) {
   var html = `
     <div class="store-info-window">
     <div class="store-info-name">
@@ -255,7 +290,7 @@ function createMarker(latlng, name, address, openStatusText, phoneNumber) {
   </div>
     `
 
-    var image = {
+  var image = {
     url: 'https://i.pinimg.com/originals/53/ef/28/53ef2887618aeccfb63d0165f8202ffe.png',
     scaledSize: new google.maps.Size(40, 40),
   };
@@ -263,7 +298,8 @@ function createMarker(latlng, name, address, openStatusText, phoneNumber) {
   var marker = new google.maps.Marker({
     map: map,
     position: latlng,
-    icon: image,
+    label: `${index + 1}`,
+    // icon: image,
   });
   google.maps.event.addListener(marker, 'click', function () {
     infoWindow.setContent(html);

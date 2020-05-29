@@ -1,6 +1,6 @@
 # Plan of Action
 
-- Complete the styling for the marker info window
+- Complete the styling for the marker info window DONE
 
 - Open the info window marker on store selection in stores list
 

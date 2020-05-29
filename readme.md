@@ -1,11 +1,13 @@
-## API Key
+# Google Maps Store Locator
 
-AIzaSyBh15L6ZQVrZVsMjwAhb_3-X6bbgpSGtQk
+**About this project**
+Project done in a week during the JavaScript Developer Challenge by Clever Programmer.
 
-**WARNING**
-DO NOT SHARE IT WITH ANYONE
+Use of:
+- Google Maps API
+- JavaScript functions
 
-## FontAwesome Link
+## Deployed Website:
 
-https://kit.fontawesome.com/c939d0e917.js
+[Google Maps Store Locator](https://guihebling.github.io/google-maps-store-locator/)
 

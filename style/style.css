@@ -4,9 +4,9 @@
 *,
 *::before,
 *::after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 html {
@@ -25,24 +25,24 @@ body {
 /* width */
 ::-webkit-scrollbar {
     width: 1rem;
-  }
-  
-  /* Track */
-  ::-webkit-scrollbar-track {
-    background: #f1f1f1;
-  }
-  
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-    background: #888;
-  }
-  
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-    background: #555;
-  }
+}
 
-  /* Google Maps map: */
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Google Maps map: */
 #map {
     height: 100vh;
 }
@@ -62,8 +62,9 @@ body {
 
     background: linear-gradient(to right, #f1f1f3, #8f8f96);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
-    
+
     border-bottom: 1px solid #8686a7;
 
     font-family: 'Roboto', sans-serif;
@@ -155,7 +156,8 @@ body {
     background-color: #6f6f8936;
 }
 
-.store-container-background:focus, .store-container-background:active {
+.store-container-background:focus,
+.store-container-background:active {
     background-color: #6f6f8936;
 }
 
@@ -172,7 +174,7 @@ body {
 .store-container-name {
     font-size: 1.8rem;
     font-weight: bold;
-    color: rgba(0,0,0,.87);
+    color: rgba(0, 0, 0, .87);
 }
 
 .store-address {
@@ -221,7 +223,7 @@ body {
 .store-info-name {
     font-size: 1.9rem;
     font-weight: bold;
-    color: rgba(0,0,0,.87);
+    color: rgba(0, 0, 0, .87);
 }
 
 .store-info-status {
@@ -230,13 +232,15 @@ body {
     padding-bottom: 7px;
 }
 
-.store-info-address, .store-info-phone {
+.store-info-address,
+.store-info-phone {
     margin-top: 8px;
     display: flex;
     align-items: center;
 }
 
-.store-info-address .circle, .store-info-phone .circle {
+.store-info-address .circle,
+.store-info-phone .circle {
     width: 30px;
     height: 30px;
     background-color: white;
@@ -245,7 +249,7 @@ body {
     align-items: center;
     justify-content: center;
     display: flex;
-    margin-right: 8px; 
+    margin-right: 8px;
 }
 
 
@@ -253,10 +257,11 @@ body {
 /* Media queries: */
 
 @media screen and (max-width: 640px) {
-    
+
     .title {
         display: flex;
-        top: auto;;
+        top: auto;
+        ;
         font-size: 2em;
         line-height: 1em;
         margin-bottom: 3em;
@@ -264,6 +269,7 @@ body {
 
         background: linear-gradient(to right, #8e8eaf, #656580);
         -webkit-background-clip: text;
+        background-clip: text;
         -webkit-text-fill-color: transparent;
     }
 
@@ -279,7 +285,7 @@ body {
         height: 55vh;
     }
 
-/* Stores list */
+    /* Stores list */
     .stores-list-container {
         display: block;
         top: auto;
@@ -288,6 +294,7 @@ body {
         height: 30vh;
         width: 100vw;
         max-width: 100vw;
+        border-radius: 0px;
     }
 
     .store-number {
@@ -302,7 +309,7 @@ body {
         left: 0;
         top: 65vh;
         background-color: #6f6f89;
-        border-radius: 0px;   
+        border-radius: 0px;
     }
 
     /* .search {
@@ -312,11 +319,11 @@ body {
         padding-left: 20px;
         padding-right: 20px;
     } */
-    
+
     .search input {
         width: 100%;
         text-align: left;
-        font-size: 1.5rem;    
+        font-size: 1.5rem;
     }
 
     /* Store Info Window: */
@@ -332,7 +339,7 @@ body {
         text-align: center;
         font-size: 1.9rem;
         font-weight: bold;
-        color: rgba(0,0,0,.87);
+        color: rgba(0, 0, 0, .87);
     }
 
     .store-info-status {
@@ -342,13 +349,15 @@ body {
         padding-bottom: 7px;
     }
 
-    .store-info-address, .store-info-phone {
+    .store-info-address,
+    .store-info-phone {
         margin-top: 8px;
         display: flex;
         align-items: center;
     }
 
-    .store-info-address .circle, .store-info-phone .circle {
+    .store-info-address .circle,
+    .store-info-phone .circle {
         width: 30px;
         height: 30px;
         background-color: white;
@@ -357,6 +366,6 @@ body {
         align-items: center;
         justify-content: center;
         display: flex;
-        margin-right: 8px; 
+        margin-right: 8px;
     }
 }

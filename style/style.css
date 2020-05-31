@@ -376,7 +376,7 @@ body {
 
 /* CORE STYLES */
 :root {
---primary-color: rgba(255, 255, 255, 0.75);
+--primary-color: rgb(255, 255, 255);
 --overlay-color: rgba(24, 39, 51 , 0.85);
 --menu-speed: 0.75s;
 }

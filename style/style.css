@@ -261,16 +261,15 @@ body {
     .title {
         display: flex;
         top: auto;
-        ;
-        font-size: 2em;
+        font-size: 1.4em;
         line-height: 1em;
         margin-bottom: 3em;
-        left: 0.7em;
+        left: 2em;
 
         background: linear-gradient(to right, #8e8eaf, #656580);
         -webkit-background-clip: text;
         background-clip: text;
-        -webkit-text-fill-color: transparent;
+        -webkit-text-fill-color: #656580;
     }
 
     .heading {
@@ -550,4 +549,16 @@ body {
     -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
     box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
     transition: all ease-in-out 0.4s;
+}
+
+@media screen and (max-width: 640px) {
+    .menu-wrap .menu > div {
+        height: 80vh;
+        width: 180vw;
+        padding-bottom: 10em;
+    }
+
+    .menu-wrap .menu > div > div > ul > li > a {
+        display: flex;
+    }
 }

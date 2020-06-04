@@ -312,8 +312,6 @@ function initMap() {
   });
   infoWindow = new google.maps.InfoWindow();
   searchStores();
-
-
 }
 
 function searchStores() {
@@ -419,12 +417,6 @@ function createMarker(latlng, name, address, openStatusText, phoneNumber, index)
         <i class="fas fa-location-arrow"></i>
       </div>
       <a href="https://www.google.com/maps/dir/?api=1&destination=${latlng}" style="color: #514C4C" target="_blank">${address}</a>
-    </div>
-    <div class="store-info-phone">
-      <div class="circle">
-        <i class="fas fa-phone-alt"></i>
-      </div>
-      <a href="tel:${phoneNumber}" style="color: #514C4C" target="_blank">${phoneNumber}</a>
     </div>
   </div>
     `

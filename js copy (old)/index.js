@@ -6,12 +6,12 @@ var infoWindow;
 var selectedMarker;
 
 function initMap() {
-  var Oslo = {
-    lat: 59.911491,
-    lng: 10.757933
+  var losAngeles = {
+    lat: 34.063380,
+    lng: -118.358080
   }
   map = new google.maps.Map(document.getElementById('map'), {
-    center: Oslo,
+    center: losAngeles,
     zoom: 8,
     mapTypeId: "roadmap",
     styles: 
@@ -321,7 +321,7 @@ function searchStores() {
   var zipCode = document.getElementById('zip-code-input').value;
   if (zipCode) {
     stores.forEach(function (store) {
-      var postal = store.address.postalCode.substring(0, 4);
+      var postal = store.address.postalCode.substring(0, 5);
       if (postal == zipCode) {
         foundStores.push(store);
       };
@@ -358,9 +358,7 @@ function displayStores(stores) {
   stores.forEach(function (store, index) {
     var name = store.name;
     var address = store.addressLines;
-    // var phone = store.phoneNumber;
-    var city = store.address.city;
-    var zipCode = store.address.postalCode;
+    var phone = store.phoneNumber;
     storesHtml += `
     <div class="store-container">
       <div class="store-container-background">
@@ -373,7 +371,7 @@ function displayStores(stores) {
               <span>${address[1]}</span>
             </div>
             <div class="store-phone-number">
-            ${zipCode}, ${city}
+            ${phone}
             </div>
           </div>
           <div class="store-number-container">

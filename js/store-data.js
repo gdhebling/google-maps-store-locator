@@ -661,307 +661,310 @@ let stores = [{
             "name": "My Starbucks Rewards"
         }],
         "slug": "sandvika-storsenter-brodtkorpgt-7-sandvika-02-1338-no"
-    }, {
-        "recommendation": {},
-        "storeNumber": "55263-289117",
-        "id": "1022048",
-        "name": "Strommen Storsenter",
-        "phoneNumber": null,
-        "coordinates": {
-            "latitude": 59.947787,
-            "longitude": 11.007657
-        },
-        "regulations": [],
-        "address": {
-            "streetAddressLine1": "Stoperiveien 5",
-            "streetAddressLine2": null,
-            "streetAddressLine3": null,
-            "city": "Strommen",
-            "countrySubdivisionCode": "03",
-            "countryCode": "NO",
-            "postalCode": "2010"
-        },
-        "timeZoneInfo": {
-            "currentTimeOffset": 120,
-            "windowsTimeZoneId": "W. Europe Standard Time",
-            "olsonTimeZoneId": "GMT+1:00 Europe/Oslo"
-        },
-        "brandName": "Starbucks",
-        "ownershipTypeCode": "LS",
-        "open": false,
-        "openStatusText": "Closed",
-        "addressLines": ["Stoperiveien 5", "Strommen, 03 2010"],
-        "mop": {
-            "ready": false,
-            "wait": null
-        },
-        "schedule": [{
-            "dayName": "Today",
-            "hours": "10:00 AM to 7:00 PM",
-            "open": true,
-            "holiday": ""
-        }, {
-            "dayName": "Tomorrow",
-            "hours": "10:00 AM to 7:00 PM",
-            "open": true,
-            "holiday": ""
-        }, {
-            "dayName": "Saturday",
-            "hours": "10:00 AM to 7:00 PM",
-            "open": true,
-            "holiday": ""
-        }, {
-            "dayName": "Sunday",
-            "hours": "Closed",
-            "open": false,
-            "holiday": ""
-        }, {
-            "dayName": "Monday",
-            "hours": "10:00 AM to 7:00 PM",
-            "open": true,
-            "holiday": ""
-        }, {
-            "dayName": "Tuesday",
-            "hours": "10:00 AM to 7:00 PM",
-            "open": true,
-            "holiday": ""
-        }, {
-            "dayName": "Wednesday",
-            "hours": "10:00 AM to 7:00 PM",
-            "open": true,
-            "holiday": ""
-        }],
-        "features": [],
-        "slug": "strommen-storsenter-stoperiveien-5-strommen-03-2010-no"
-    }, {
-        "recommendation": {},
-        "storeNumber": "23605-231565",
-        "id": "1009237",
-        "name": "Magasinet, Drammen",
-        "phoneNumber": "464 26 508",
-        "coordinates": {
-            "latitude": 59.743288,
-            "longitude": 10.204743
-        },
-        "regulations": [],
-        "address": {
-            "streetAddressLine1": "Nedre Storgate 6",
-            "streetAddressLine2": "Drammen Sentrum",
-            "streetAddressLine3": null,
-            "city": "Drammen",
-            "countrySubdivisionCode": "06",
-            "countryCode": "NO",
-            "postalCode": "3015"
-        },
-        "timeZoneInfo": {
-            "currentTimeOffset": 120,
-            "windowsTimeZoneId": "W. Europe Standard Time",
-            "olsonTimeZoneId": "GMT+1:00 Europe/Oslo"
-        },
-        "brandName": "Starbucks",
-        "ownershipTypeCode": "LS",
-        "open": false,
-        "openStatusText": "Closed",
-        "addressLines": ["Nedre Storgate 6", "Drammen Sentrum", "Drammen, 06 3015"],
-        "mop": {
-            "ready": false,
-            "wait": null
-        },
-        "schedule": [{
-            "dayName": "Today",
-            "hours": "10:00 AM to 6:00 PM",
-            "open": true,
-            "holiday": ""
-        }, {
-            "dayName": "Tomorrow",
-            "hours": "10:00 AM to 6:00 PM",
-            "open": true,
-            "holiday": ""
-        }, {
-            "dayName": "Saturday",
-            "hours": "10:00 AM to 6:00 PM",
-            "open": true,
-            "holiday": ""
-        }, {
-            "dayName": "Sunday",
-            "hours": "Closed",
-            "open": false,
-            "holiday": ""
-        }, {
-            "dayName": "Monday",
-            "hours": "10:00 AM to 6:00 PM",
-            "open": true,
-            "holiday": ""
-        }, {
-            "dayName": "Tuesday",
-            "hours": "10:00 AM to 6:00 PM",
-            "open": true,
-            "holiday": ""
-        }, {
-            "dayName": "Wednesday",
-            "hours": "10:00 AM to 6:00 PM",
-            "open": true,
-            "holiday": ""
-        }],
-        "features": [{
-            "code": "WF",
-            "name": "Wireless Hotspot"
-        }, {
-            "code": "RW",
-            "name": "My Starbucks Rewards"
-        }],
-        "slug": "magasinet-drammen-nedre-storgate-6-drammen-06-3015-no"
-    }, {
-        "recommendation": {},
-        "storeNumber": "23975-234484",
-        "id": "1009633",
-        "name": "Jessheim Storsenter",
-        "phoneNumber": null,
-        "coordinates": {
-            "latitude": 60.142759,
-            "longitude": 11.171831
-        },
-        "regulations": [],
-        "address": {
-            "streetAddressLine1": "Storgata 6",
-            "streetAddressLine2": "Jessheim Sentrum",
-            "streetAddressLine3": null,
-            "city": "Jessheim",
-            "countrySubdivisionCode": "02",
-            "countryCode": "NO",
-            "postalCode": "2050"
-        },
-        "timeZoneInfo": {
-            "currentTimeOffset": 120,
-            "windowsTimeZoneId": "W. Europe Standard Time",
-            "olsonTimeZoneId": "GMT+1:00 Europe/Oslo"
-        },
-        "brandName": "Starbucks",
-        "ownershipTypeCode": "LS",
-        "open": false,
-        "openStatusText": "Closed",
-        "addressLines": ["Storgata 6", "Jessheim Sentrum", "Jessheim, 02 2050"],
-        "mop": {
-            "ready": false,
-            "wait": null
-        },
-        "schedule": [{
-            "dayName": "Today",
-            "hours": "10:00 AM to 6:00 PM",
-            "open": true,
-            "holiday": ""
-        }, {
-            "dayName": "Tomorrow",
-            "hours": "10:00 AM to 6:00 PM",
-            "open": true,
-            "holiday": ""
-        }, {
-            "dayName": "Saturday",
-            "hours": "10:00 AM to 6:00 PM",
-            "open": true,
-            "holiday": ""
-        }, {
-            "dayName": "Sunday",
-            "hours": "Closed",
-            "open": false,
-            "holiday": ""
-        }, {
-            "dayName": "Monday",
-            "hours": "10:00 AM to 6:00 PM",
-            "open": true,
-            "holiday": ""
-        }, {
-            "dayName": "Tuesday",
-            "hours": "10:00 AM to 6:00 PM",
-            "open": true,
-            "holiday": ""
-        }, {
-            "dayName": "Wednesday",
-            "hours": "10:00 AM to 6:00 PM",
-            "open": true,
-            "holiday": ""
-        }],
-        "features": [{
-            "code": "WF",
-            "name": "Wireless Hotspot"
-        }, {
-            "code": "RW",
-            "name": "My Starbucks Rewards"
-        }],
-        "slug": "jessheim-storsenter-storgata-6-jessheim-02-2050-no"
-    }, {
-        "recommendation": {},
-        "storeNumber": "29572-254329",
-        "id": "1016217",
-        "name": "Oslo Airport Landside Departures",
-        "phoneNumber": null,
-        "coordinates": {
-            "latitude": 60.193553,
-            "longitude": 11.098805
-        },
-        "regulations": [],
-        "address": {
-            "streetAddressLine1": "1st fl Landside Domestic",
-            "streetAddressLine2": "Dep. Unit 05.306",
-            "streetAddressLine3": null,
-            "city": "Gardermoen",
-            "countrySubdivisionCode": "03",
-            "countryCode": "NO",
-            "postalCode": "2061"
-        },
-        "timeZoneInfo": {
-            "currentTimeOffset": 120,
-            "windowsTimeZoneId": "W. Europe Standard Time",
-            "olsonTimeZoneId": "GMT+1:00 Europe/Oslo"
-        },
-        "brandName": "Starbucks",
-        "ownershipTypeCode": "LS",
-        "open": null,
-        "openStatusText": "",
-        "addressLines": ["1st fl Landside Domestic", "Dep. Unit 05.306", "Gardermoen, 03 2061"],
-        "mop": {
-            "ready": false,
-            "wait": null
-        },
-        "features": [],
-        "slug": "oslo-airport-landside-departures-1st-fl-landside-domestic-gardermoen-03-2061-no"
-    }, {
-        "recommendation": {},
-        "storeNumber": "29573-254328",
-        "id": "1014055",
-        "name": "Oslo Airport Airside Departures",
-        "phoneNumber": null,
-        "coordinates": {
-            "latitude": 60.193553,
-            "longitude": 11.098985
-        },
-        "regulations": [],
-        "address": {
-            "streetAddressLine1": "1st Fl, Airside Int. Dep. Unit 05.323B",
-            "streetAddressLine2": "Internationall Departures",
-            "streetAddressLine3": null,
-            "city": "Gardermoen",
-            "countrySubdivisionCode": "03",
-            "countryCode": "NO",
-            "postalCode": "2061"
-        },
-        "timeZoneInfo": {
-            "currentTimeOffset": 120,
-            "windowsTimeZoneId": "W. Europe Standard Time",
-            "olsonTimeZoneId": "GMT+1:00 Europe/Oslo"
-        },
-        "brandName": "Starbucks",
-        "ownershipTypeCode": "LS",
-        "open": null,
-        "openStatusText": "",
-        "addressLines": ["1st Fl, Airside Int. Dep. Unit 05.323B", "Internationall Departures", "Gardermoen, 03 2061"],
-        "mop": {
-            "ready": false,
-            "wait": null
-        },
-        "features": [],
-        "slug": "oslo-airport-airside-departures-1st-fl-airside-int-dep-unit-05-323-b-gardermoen-03"
     }
+    // , {
+    //     "recommendation": {},
+    //     "storeNumber": "55263-289117",
+    //     "id": "1022048",
+    //     "name": "Strommen Storsenter",
+    //     "phoneNumber": null,
+    //     "coordinates": {
+    //         "latitude": 59.947787,
+    //         "longitude": 11.007657
+    //     },
+    //     "regulations": [],
+    //     "address": {
+    //         "streetAddressLine1": "Stoperiveien 5",
+    //         "streetAddressLine2": null,
+    //         "streetAddressLine3": null,
+    //         "city": "Strommen",
+    //         "countrySubdivisionCode": "03",
+    //         "countryCode": "NO",
+    //         "postalCode": "2010"
+    //     },
+    //     "timeZoneInfo": {
+    //         "currentTimeOffset": 120,
+    //         "windowsTimeZoneId": "W. Europe Standard Time",
+    //         "olsonTimeZoneId": "GMT+1:00 Europe/Oslo"
+    //     },
+    //     "brandName": "Starbucks",
+    //     "ownershipTypeCode": "LS",
+    //     "open": false,
+    //     "openStatusText": "Closed",
+    //     "addressLines": ["Stoperiveien 5", "Strommen, 03 2010"],
+    //     "mop": {
+    //         "ready": false,
+    //         "wait": null
+    //     },
+    //     "schedule": [{
+    //         "dayName": "Today",
+    //         "hours": "10:00 AM to 7:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Tomorrow",
+    //         "hours": "10:00 AM to 7:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Saturday",
+    //         "hours": "10:00 AM to 7:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Sunday",
+    //         "hours": "Closed",
+    //         "open": false,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Monday",
+    //         "hours": "10:00 AM to 7:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Tuesday",
+    //         "hours": "10:00 AM to 7:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Wednesday",
+    //         "hours": "10:00 AM to 7:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }],
+    //     "features": [],
+    //     "slug": "strommen-storsenter-stoperiveien-5-strommen-03-2010-no"
+    // }, {
+    //     "recommendation": {},
+    //     "storeNumber": "23605-231565",
+    //     "id": "1009237",
+    //     "name": "Magasinet, Drammen",
+    //     "phoneNumber": "464 26 508",
+    //     "coordinates": {
+    //         "latitude": 59.743288,
+    //         "longitude": 10.204743
+    //     },
+    //     "regulations": [],
+    //     "address": {
+    //         "streetAddressLine1": "Nedre Storgate 6",
+    //         "streetAddressLine2": "Drammen Sentrum",
+    //         "streetAddressLine3": null,
+    //         "city": "Drammen",
+    //         "countrySubdivisionCode": "06",
+    //         "countryCode": "NO",
+    //         "postalCode": "3015"
+    //     },
+    //     "timeZoneInfo": {
+    //         "currentTimeOffset": 120,
+    //         "windowsTimeZoneId": "W. Europe Standard Time",
+    //         "olsonTimeZoneId": "GMT+1:00 Europe/Oslo"
+    //     },
+    //     "brandName": "Starbucks",
+    //     "ownershipTypeCode": "LS",
+    //     "open": false,
+    //     "openStatusText": "Closed",
+    //     "addressLines": ["Nedre Storgate 6", "Drammen Sentrum", "Drammen, 06 3015"],
+    //     "mop": {
+    //         "ready": false,
+    //         "wait": null
+    //     },
+    //     "schedule": [{
+    //         "dayName": "Today",
+    //         "hours": "10:00 AM to 6:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Tomorrow",
+    //         "hours": "10:00 AM to 6:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Saturday",
+    //         "hours": "10:00 AM to 6:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Sunday",
+    //         "hours": "Closed",
+    //         "open": false,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Monday",
+    //         "hours": "10:00 AM to 6:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Tuesday",
+    //         "hours": "10:00 AM to 6:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Wednesday",
+    //         "hours": "10:00 AM to 6:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }],
+    //     "features": [{
+    //         "code": "WF",
+    //         "name": "Wireless Hotspot"
+    //     }, {
+    //         "code": "RW",
+    //         "name": "My Starbucks Rewards"
+    //     }],
+    //     "slug": "magasinet-drammen-nedre-storgate-6-drammen-06-3015-no"
+    // }
+    // , {
+    //     "recommendation": {},
+    //     "storeNumber": "23975-234484",
+    //     "id": "1009633",
+    //     "name": "Jessheim Storsenter",
+    //     "phoneNumber": null,
+    //     "coordinates": {
+    //         "latitude": 60.142759,
+    //         "longitude": 11.171831
+    //     },
+    //     "regulations": [],
+    //     "address": {
+    //         "streetAddressLine1": "Storgata 6",
+    //         "streetAddressLine2": "Jessheim Sentrum",
+    //         "streetAddressLine3": null,
+    //         "city": "Jessheim",
+    //         "countrySubdivisionCode": "02",
+    //         "countryCode": "NO",
+    //         "postalCode": "2050"
+    //     },
+    //     "timeZoneInfo": {
+    //         "currentTimeOffset": 120,
+    //         "windowsTimeZoneId": "W. Europe Standard Time",
+    //         "olsonTimeZoneId": "GMT+1:00 Europe/Oslo"
+    //     },
+    //     "brandName": "Starbucks",
+    //     "ownershipTypeCode": "LS",
+    //     "open": false,
+    //     "openStatusText": "Closed",
+    //     "addressLines": ["Storgata 6", "Jessheim Sentrum", "Jessheim, 02 2050"],
+    //     "mop": {
+    //         "ready": false,
+    //         "wait": null
+    //     },
+    //     "schedule": [{
+    //         "dayName": "Today",
+    //         "hours": "10:00 AM to 6:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Tomorrow",
+    //         "hours": "10:00 AM to 6:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Saturday",
+    //         "hours": "10:00 AM to 6:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Sunday",
+    //         "hours": "Closed",
+    //         "open": false,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Monday",
+    //         "hours": "10:00 AM to 6:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Tuesday",
+    //         "hours": "10:00 AM to 6:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }, {
+    //         "dayName": "Wednesday",
+    //         "hours": "10:00 AM to 6:00 PM",
+    //         "open": true,
+    //         "holiday": ""
+    //     }],
+    //     "features": [{
+    //         "code": "WF",
+    //         "name": "Wireless Hotspot"
+    //     }, {
+    //         "code": "RW",
+    //         "name": "My Starbucks Rewards"
+    //     }],
+    //     "slug": "jessheim-storsenter-storgata-6-jessheim-02-2050-no"
+    // }
+    // , {
+    //     "recommendation": {},
+    //     "storeNumber": "29572-254329",
+    //     "id": "1016217",
+    //     "name": "Oslo Airport Landside Departures",
+    //     "phoneNumber": null,
+    //     "coordinates": {
+    //         "latitude": 60.193553,
+    //         "longitude": 11.098805
+    //     },
+    //     "regulations": [],
+    //     "address": {
+    //         "streetAddressLine1": "1st fl Landside Domestic",
+    //         "streetAddressLine2": "Dep. Unit 05.306",
+    //         "streetAddressLine3": null,
+    //         "city": "Gardermoen",
+    //         "countrySubdivisionCode": "03",
+    //         "countryCode": "NO",
+    //         "postalCode": "2061"
+    //     },
+    //     "timeZoneInfo": {
+    //         "currentTimeOffset": 120,
+    //         "windowsTimeZoneId": "W. Europe Standard Time",
+    //         "olsonTimeZoneId": "GMT+1:00 Europe/Oslo"
+    //     },
+    //     "brandName": "Starbucks",
+    //     "ownershipTypeCode": "LS",
+    //     "open": null,
+    //     "openStatusText": "",
+    //     "addressLines": ["1st fl Landside Domestic", "Dep. Unit 05.306", "Gardermoen, 03 2061"],
+    //     "mop": {
+    //         "ready": false,
+    //         "wait": null
+    //     },
+    //     "features": [],
+    //     "slug": "oslo-airport-landside-departures-1st-fl-landside-domestic-gardermoen-03-2061-no"
+    // }, {
+    //     "recommendation": {},
+    //     "storeNumber": "29573-254328",
+    //     "id": "1014055",
+    //     "name": "Oslo Airport Airside Departures",
+    //     "phoneNumber": null,
+    //     "coordinates": {
+    //         "latitude": 60.193553,
+    //         "longitude": 11.098985
+    //     },
+    //     "regulations": [],
+    //     "address": {
+    //         "streetAddressLine1": "1st Fl, Airside Int. Dep. Unit 05.323B",
+    //         "streetAddressLine2": "Internationall Departures",
+    //         "streetAddressLine3": null,
+    //         "city": "Gardermoen",
+    //         "countrySubdivisionCode": "03",
+    //         "countryCode": "NO",
+    //         "postalCode": "2061"
+    //     },
+    //     "timeZoneInfo": {
+    //         "currentTimeOffset": 120,
+    //         "windowsTimeZoneId": "W. Europe Standard Time",
+    //         "olsonTimeZoneId": "GMT+1:00 Europe/Oslo"
+    //     },
+    //     "brandName": "Starbucks",
+    //     "ownershipTypeCode": "LS",
+    //     "open": null,
+    //     "openStatusText": "",
+    //     "addressLines": ["1st Fl, Airside Int. Dep. Unit 05.323B", "Internationall Departures", "Gardermoen, 03 2061"],
+    //     "mop": {
+    //         "ready": false,
+    //         "wait": null
+    //     },
+    //     "features": [],
+    //     "slug": "oslo-airport-airside-departures-1st-fl-airside-int-dep-unit-05-323-b-gardermoen-03"
+    // }
     // , // Stavanger Stores Start
     // {
     //     "recommendation": {},

@@ -5,7 +5,7 @@ Project done in a week during the JavaScript Developer Challenge by Clever Progr
 
 ## Deployed Website:
 
-[Google Maps Store Locator](https://guihebling.github.io/google-maps-store-locator/)
+[Google Maps Store Locator](https://gdhebling.github.io/google-maps-store-locator/)
 <br />
 
 **Use of:**

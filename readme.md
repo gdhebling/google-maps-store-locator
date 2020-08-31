@@ -16,4 +16,5 @@ Project done in a week during the JavaScript Developer Challenge by Clever Progr
 ![Website Mobile Version](media\store-locator-mobile-version1.png)
 
 
+[Google Maps Store Locator](https://gdhebling.github.io/google-maps-store-locator/)
 

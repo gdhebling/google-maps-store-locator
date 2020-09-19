@@ -1,7 +1,7 @@
 # Google Maps Store Locator
 
 **About this project**
-Project done in a week during the JavaScript Developer Challenge by Clever Programmer.
+Project coded during the a JavaScript Challenge.
 
 ## Deployed Website:
 
@@ -12,5 +12,5 @@ Project done in a week during the JavaScript Developer Challenge by Clever Progr
 - Google Maps API
 - JavaScript functions
 
-<a href="https://gdhebling.github.io/google-maps-store-locator/" alt="Website Screenshot">![Website Desktop Version](media\store-locator-desktop-version.png)</a> <br />
-<a href="https://gdhebling.github.io/google-maps-store-locator/" alt="Website Mobile Screenshot">![Website Mobile Version](media\store-locator-mobile-version1.png)</a>
+<a href="https://gdhebling.github.io/google-maps-store-locator/" alt="Website Desktop Screenshot">![Website Desktop Screenshot](media/store-locator-desktop-version-light-theme.png)</a>
+<a href="https://gdhebling.github.io/google-maps-store-locator/" alt="Website Mobile Screenshot">![Website Mobile Screenshot](media/store-locator-mobile-version-light-theme.png)</a>

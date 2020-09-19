@@ -28,7 +28,7 @@ HTML5, CSS3, JavaScript, Google Maps API, and Google Cloud Platform. <br />
     <a href="https://github.com/gdhebling"><img align="center" alt="Google Maps API" width="26px"
             src="https://img.icons8.com/color/48/000000/google-maps-new.png" /></a>&nbsp;&nbsp;
     <a href="https://github.com/gdhebling"><img align="center" alt="Google Cloud Platform" width="26px"
-            src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" /></a>&nbsp;&nbsp;
+            src="https://www.gstatic.com/devrel-devsite/prod/v425077d6c7be97246d05a953898cb9591a173a3cef753a451b8729896196bc0a/cloud/images/favicons/onecloud/apple-icon.png" /></a>&nbsp;&nbsp;
     <a href="https://github.com/gdhebling"><img align="center" alt="Git" width="26px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>&nbsp;&nbsp;
     <a href="https://github.com/gdhebling"><img align="center" alt="GitHub" width="26px"

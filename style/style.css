@@ -60,12 +60,12 @@ body {
     letter-spacing: 1rem;
     /* color: #333; */
 
-    background: linear-gradient(to right, #f1f1f3, #8f8f96);
+    background: linear-gradient(to right, #53549D, #474555, #ACA9BB);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
 
-    border-bottom: 1px solid #8686a7;
+    border-bottom: 1px solid #ACA9BB;
 
     font-family: 'Roboto', sans-serif;
 }

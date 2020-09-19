@@ -16,7 +16,7 @@ Main topics learned are integrating the Google Maps API to the website, how to g
 <br /><br />
 
 ## Technologies and tools used
-HTML5, CSS3, JavaScript, and Google Maps API. <br />
+HTML5, CSS3, JavaScript, Google Maps API, and Google Cloud Platform. <br />
 
 <p align="left">
     <a href="https://github.com/gdhebling"><img align="center" alt="HTML5" width="26px"
@@ -27,6 +27,8 @@ HTML5, CSS3, JavaScript, and Google Maps API. <br />
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>&nbsp;&nbsp;
     <a href="https://github.com/gdhebling"><img align="center" alt="Google Maps API" width="26px"
             src="https://img.icons8.com/color/48/000000/google-maps-new.png" /></a>&nbsp;&nbsp;
+    <a href="https://github.com/gdhebling"><img align="center" alt="Google Cloud Platform" width="26px"
+            src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" /></a>&nbsp;&nbsp;
     <a href="https://github.com/gdhebling"><img align="center" alt="Git" width="26px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>&nbsp;&nbsp;
     <a href="https://github.com/gdhebling"><img align="center" alt="GitHub" width="26px"

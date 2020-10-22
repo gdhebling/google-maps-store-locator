@@ -11,8 +11,7 @@ You can find the deployed website at https://gdhebling.github.io/google-maps-sto
 
 ## The steps
 ### Coding
-Project coded during a JavaScript Challenge.  
-Main topics learned are integrating the Google Maps API to the website, how to get my own API key with Google Cloud Platform, my first contact with DOM Manipulation, and how to handle data from a JSON file. 
+Main functionalities of the project was integrating the Google Maps API to the website, how to get my own API key with Google Cloud Platform, my first contact with DOM Manipulation, and how to handle data from a JSON file. 
 <br /><br />
 
 ## Technologies and tools used

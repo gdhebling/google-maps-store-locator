@@ -286,9 +286,6 @@ function createMarker(latlng, name, address, openStatusText, phoneNumber, index)
     <div class="store-info-name">
       ${name}
     </div>
-    <div class="store-info-status">
-      ${openStatusText}
-    </div>
     <div class="store-info-address">
       <div class="circle">
         <i class="fas fa-location-arrow"></i>

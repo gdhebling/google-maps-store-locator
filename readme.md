@@ -36,16 +36,15 @@ HTML5, CSS3, JavaScript, Google Maps API, and Google Cloud Platform. <br />
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 </p>
 
-## That's it!
-Thanks for reading! 😀 <br />
-I'm Guilherme. Front-End Web Developer. <br />
+## Contact
+
+Gui Hebling -  
+https://gdhebling.com
 
 <p align="left">
-
-You can find me on: <br />
-    
-<a href="https://www.linkedin.com/in/guilhermedurso/"><img alt="linkedin" width="26px" src="https://image.flaticon.com/icons/svg/1383/1383262.svg" /></a>
-    &nbsp;&nbsp;
+<a href="https://gdhebling.com"><img alt="website" width="26px" src="https://image.flaticon.com/icons/png/512/1828/1828555.png" /></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gdhebling/"><img alt="linkedin" width="26px" src="https://image.flaticon.com/icons/svg/1383/1383262.svg" /></a>
+&nbsp;&nbsp;
 <a href="https://twitter.com/gdhebling"><img alt="twitter" width="26px" src="https://image.flaticon.com/icons/svg/1383/1383265.svg" /></a>
-
 </p>

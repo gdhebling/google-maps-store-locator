@@ -40,11 +40,3 @@ HTML5, CSS3, JavaScript, Google Maps API, and Google Cloud Platform. <br />
 
 Gui Hebling -  
 https://gdhebling.com
-
-<p align="left">
-<a href="https://gdhebling.com"><img alt="website" width="26px" src="https://image.flaticon.com/icons/png/512/1828/1828555.png" /></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/gdhebling/"><img alt="linkedin" width="26px" src="https://image.flaticon.com/icons/svg/1383/1383262.svg" /></a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/gdhebling"><img alt="twitter" width="26px" src="https://image.flaticon.com/icons/svg/1383/1383265.svg" /></a>
-</p>

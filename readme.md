@@ -8,6 +8,7 @@ Search input looks for JSON list of stores and returns the filtered results on t
 
 ### Deployed website
 You can find the deployed website at https://gdhebling.github.io/google-maps-store-locator/
+Please note that the Google Maps API is disabled at the moment.
 
 ## The steps
 ### Coding
